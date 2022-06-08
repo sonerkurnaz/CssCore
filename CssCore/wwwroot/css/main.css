@@ -32,4 +32,12 @@
 .box a:hover{
     font-style:italic;
     font-size:15px;
+    background-color:blue;    
+}
+.box:hover{
+    width:120px;
+    height:120px;
+}
+.box .lightbox p{
+    font-family:'Comic Sans MS';
 }
